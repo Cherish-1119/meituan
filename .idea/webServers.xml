@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6d8c2ba6-c7e4-41d3-b0d4-b089def22f5e" name="meituanserver" url="http://106.52.40.163">
+        <fileTransfer rootFolder="/home/ubuntu" accessType="SFTP" host="106.52.40.163" port="22" sshConfigId="df16e058-2830-4815-96a8-095e7c95271b" sshConfig="ubuntu@106.52.40.163:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
